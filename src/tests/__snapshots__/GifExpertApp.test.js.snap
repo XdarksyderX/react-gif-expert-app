@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifExpertApp:  Should display a categories list 1`] = `ShallowWrapper {}`;
+
+exports[`GifExpertApp:  Should render correctly 1`] = `ShallowWrapper {}`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGrid: Should show items when it loads 1`] = `ShallowWrapper {}`;
+
+exports[`GifGrid: should render correctly 1`] = `ShallowWrapper {}`;
